@@ -1,4 +1,4 @@
-# 1. Contains:
+# 1. Contains
 This includes many common packaages such as *Adobe Flash Player, LAME for mp3 encoding, and Microsoft fonts.* Installing these packages will allow many everyday applications to work.
 
 These are not installed by default due to being either closed source or open source with licensing restrictions.
